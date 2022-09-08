@@ -1,7 +1,7 @@
 {
   "version": "0.15.0",
   "name": "@metaplex-foundation/js",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
